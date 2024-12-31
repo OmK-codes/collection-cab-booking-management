@@ -56,5 +56,6 @@ public class CabBookingManagement {
                     System.out.println("Invalid choice! Please select a valid option.");
             }
         } while (option != 0);
+        System.out.println("THANK YOU!");
     }
 }
