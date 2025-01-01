@@ -1,7 +1,6 @@
 package com.omkcodes.project.model;
 
 public class Vehicle {
-
     private String vehicleId;
     private String model;
     private String registrationNumber;
